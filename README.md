@@ -14,4 +14,4 @@ Damir Štuhec
 - damir.stuhec@gmail.com
 
 ## License
-DSDynamicScrollView is available under the MIT license. See the LICENSE file for more info.
+UIColor-AlphaBlend is available under the MIT license. See the LICENSE file for more info.
