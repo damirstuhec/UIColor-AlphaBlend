@@ -1,9 +1,17 @@
-UIColor-AlphaBlend
-==================
+## UIColor-AlphaBlend
+UIColor category for alpha blending
 
-AlphaBlend - UIColor category for alpha blending
+## TODO
+- Swift version
 
-Made for situations described in this SO question/aswer: http://stackoverflow.com/a/23937359/1677480
+## Contact
+Damir Štuhec
 
+- http://github.com/damirstuhec
+- http://twitter.com/stuhecdamir
+- http://si.linkedin.com/in/damirstuhec/
+- http://damirstuhec.github.io
+- damir.stuhec@gmail.com
 
-If you like it - use it! ;)
+## License
+DSDynamicScrollView is available under the MIT license. See the LICENSE file for more info.
